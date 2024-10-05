@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\bin\Debug\NguyenDucThang_QuanLyThuVien.exe.config
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\bin\Debug\NguyenDucThang_QuanLyThuVien.exe
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\bin\Debug\NguyenDucThang_QuanLyThuVien.pdb
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.frmMain.resources
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.frmPhieuMuonSach.resources
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.Properties.Resources.resources
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.exe
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.pdb
+C:\Users\Asus\source\repos\Lab02_01\NguyenDucThang_QuanLyThuVien\obj\Debug\NguyenDucThang_QuanLyThuVien.frmNhanvien.resources
