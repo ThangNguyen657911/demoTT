@@ -15,6 +15,9 @@ namespace NguyenDucThang_QuanLyThuVien
         public frmBangCap()
         {
             InitializeComponent();
+
+
+            // code 
         }
     }
 }
